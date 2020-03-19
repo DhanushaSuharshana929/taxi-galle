@@ -9,8 +9,7 @@ $excursions = $EXCURSION->all();
 $ACTIVITY = New Activities(Null);
 $activities = $ACTIVITY->all();
 
-$SERVICE = New Service(Null);
-$services = $SERVICE->all();
+
 
 $COMMENT = New Comments(Null);
 $comments = $COMMENT->all();
@@ -28,7 +27,7 @@ $sliders = Slider::all();
         <meta name="description" content="Holiday is a dream and we know it We, the team BONVOYAGELANKA travel crew is privileged to show you and to take you around the most beautiful island in the world.">
         <meta content="Bonvoyage Lanka, Sri Lanka Travel Services, Airport Transfer, Hotel Transfer, Bonvoyage, Tour Packages in Sri Lanka, Activities in Sri Lanka, Attractions in Sri Lanka, Tourism Transport, Sri Lanka Tour Packages, Sri Lanka Holiday Tours, Sri Lanka Holiday Trip, Tours in Sri Lanka, Sri Lanka Round Tours, Sri Lanka Tour Sites, Visit Sri Lanka, Tour Sites" name="keywords">
         <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
-        
+
         <!-- favicon -->
         <link href="img/favicon1.png" rel="icon" sizes="32x32" type="image/png">
         <!-- Bootstrap CSS -->
@@ -89,37 +88,54 @@ $sliders = Slider::all();
             </div>
             <!-- home end -->
 
+
             <!-- section service home -->
             <section class="frm-clean ">
                 <div class="container-fluid">
                     <div class="row">
 
-                        <?php
-                        foreach ($services as $key => $service) {
-                            if ($key < 3) {
-                                ?>
-                                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                                    <div class="feature-1">
-                                        <div class="cont-img">
-                                            <img alt="img-cont" class="img-responsive" src="upload/service/<?php echo $service['image_name'] ?>">
-                                        </div>
-                                        <div class="cont-detail">
-                                            <h3 class="big-heading"><span class="color"><?php echo $service['title'] ?></span></h3>
-                                            <p class="max-char"><?php echo $service['short_description']; ?></p>
-                                            <div class="star-content color">
-                                            </div>
-                                            <div class="btn-center">
-                                                <a href="view-services.php?id=<?php echo $service["id"]; ?>" class="btn-content">
-                                                    Read More
-                                                </a>
-                                            </div>
-                                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                            <div class="feature-1">
+                                <div class="cont-img">
+                                    <img alt="img-cont" class="img-responsive" src="img/service-1.jpg">
+                                </div>
+                                <div class="cont-detail">
+                                    <h3 class="big-heading"><span class="color">Taxi Service</span></h3>
+                                    <p class="max-char">Looking for a reliable hotel transfer to or from your hotel or to the city? 
+                                        At Bonvoyage Lanka, we offer low-cost airport taxis across the globe, including holiday & resort. Our drivers are our best a...</p>
+                                    <div class="star-content color">
+                                    </div>
+                                    <div class="btn-center">
+                                        <a href="services.php" class="btn-content">
+                                            Read More
+                                        </a>
                                     </div>
                                 </div>
-                                <?php
-                            }
-                        }
-                        ?>
+                            </div>
+                        </div>
+
+
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                            <div class="feature-1">
+                                <div class="cont-img">
+                                    <img alt="img-cont" class="img-responsive" src="img/service-2.jpg">
+                                </div>
+                                <div class="cont-detail">
+                                    <h3 class="big-heading"><span class="color">Tour Arrangement</span></h3>
+                                    <p class="max-char">We offer numerous luxury transportation services to corporate groups, 
+                                        executives, VIPs and leisure travellers to travel around Sri Lanka. We have well-reviewed 
+                                        Sri Lanka tour packages with budget pric...</p>
+                                    <div class="star-content color">
+                                    </div>
+                                    <div class="btn-center">
+                                        <a href="services.php" class="btn-content">
+                                            Read More
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -191,7 +207,7 @@ $sliders = Slider::all();
                 </div>
             </section>  
             <!--  top rated end --> 
-  <section aria-label="gallery">
+            <section aria-label="gallery">
                 <div class="container-fluid m-5-hor">
                     <div class="row">
 
@@ -251,9 +267,9 @@ $sliders = Slider::all();
             </section> 
 
             <!--  section excursion --> 
-          
-            
-                        <!-- testimony --> 
+
+
+            <!-- testimony --> 
             <section id="testimony" class="no-padding">
                 <div class="container-fluid testimonial-sec">
                     <div class="row">
