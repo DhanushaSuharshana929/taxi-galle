@@ -11,15 +11,15 @@
 class Database {
 
     
-  private $host = 'localhost';
-    private $name = 'synoteca_taxi_galle';
-    private $user = 'synoteca_main';
-    private $password = '3rTI#)-vDmAKczXQ-J';
+//  private $host = 'localhost';
+//    private $name = 'synoteca_taxi_galle';
+//    private $user = 'synoteca_main';
+//    private $password = '3rTI#)-vDmAKczXQ-J';
      
-    // private $host = 'localhost';
-    // private $name = 'taxi_galle';
-    // private $user = 'root';
-    // private $password = '';
+     private $host = 'localhost';
+     private $name = 'taxi_galle';
+     private $user = 'root';
+     private $password = '';
 
     public function __construct() {
         mysql_connect($this->host, $this->user, $this->password) or die("Invalid host  or user details");
