@@ -1,0 +1,15 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 13, 2019, 11:32:45 AM
+    Author     : hp
+*/
+.widget .attraction-bar div{
+    margin-bottom: 0;
+}
+.widget .service-bar div{
+    margin-bottom: 0;
+}
