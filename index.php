@@ -123,9 +123,9 @@ $sliders = Slider::all();
                                 </div>
                                 <div class="cont-detail">
                                     <h3 class="big-heading"><span class="color">Tour Arrangement</span></h3>
-                                    <p class="max-char">We offer numerous luxury transportation services to corporate groups, 
-                                        executives, VIPs and leisure travellers to travel around Sri Lanka. We have well-reviewed 
-                                        Sri Lanka tour packages with budget pric...</p>
+                                    <p class="max-char">We provide our tourists with travel services. We rent cabs and other vehicles as 
+                                        needed to accommodate the travel of strangers. Provides travel information and city information 
+                                        about our places to visit, hotels to stay in, and public markets...</p>
                                     <div class="star-content color">
                                     </div>
                                     <div class="btn-center">
