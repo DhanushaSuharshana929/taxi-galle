@@ -116,7 +116,7 @@
                     </div>
                         
                 </div>
-                </div>
+      
             </section>
             <!--view tour arrangement end-->
 
