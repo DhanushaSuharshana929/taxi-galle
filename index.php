@@ -107,7 +107,7 @@ $sliders = Slider::all();
                                     <div class="star-content color">
                                     </div>
                                     <div class="btn-center">
-                                        <a href="view-tour.php" class="btn-content">
+                                        <a href="view-taxi.php" class="btn-content">
                                             Read More
                                         </a>
                                     </div>
