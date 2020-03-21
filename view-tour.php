@@ -75,7 +75,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                             <div class="feature-1 gal-home1">
                                 <div class="cont-img">
-                                    <img alt="img-cont" class="img-responsive" src="img/service-1.jpg">
+                                    <img alt="img-cont" class="img-responsive" src="img/oneday.jpg">
                                 </div>
                                 <div class="cont-detail">
                                     <h3 class="big-heading"><span class="color">One Day Tours</span></h3>
@@ -85,7 +85,7 @@
                                     <div class="star-content color">
                                     </div>
                                     <div class="btn-center">
-                                        <a href="view-one-day-tour-packages.php" class="btn-content">
+                                        <a href="one-day-tour-packages.php" class="btn-content">
                                         Read More
                                     </a>
                                     </div>
@@ -95,7 +95,7 @@
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                             <div class="feature-1 gal-home2">
                                 <div class="cont-img">
-                                    <img alt="img-cont" class="img-responsive" src="img/service-2.jpg">
+                                    <img alt="img-cont" class="img-responsive" src="img/round.jpg">
                                 </div>
                                 <div class="cont-detail">
                                     <h3 class="big-heading"><span class="color">Round Tours</span></h3>

@@ -82,7 +82,7 @@
                                     our vehicles are completely insured under a public liability scheme.</p>
                                 <div class="row">
 
-                                    <!-- project -->
+                                    <!-- Taxi gellary -->
                                     <div class="v-align">
                                         <div class="col-md-11 col-xs-12">
 
@@ -93,102 +93,114 @@
                                                             <div class="w-gallery aus afr">
                                                                 <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                                                                     <div class="hovereffect-color">
-                                                                        <a class="" href="img/service-2.jpg" data-fancybox="images">
-                                                                            <img src="img/service-1.jpg" alt="" class="w-gallery-image">
-                                                                            <div class="overlay">
-
-                                                                            </div>
-                                                                            <div style="background-color: #0c0c0dc9;"><center><h2 class="color">Taxi</label></h2></div>
-                                                                        </a>
-                                                                    </div>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4">
-                                                        <div class="gal-home">
-                                                            <div class="w-gallery aus afr">
-                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                                                                    <div class="hovereffect-color">
-                                                                        <a class="" href="img/service-2.jpg" data-fancybox="images">
-                                                                            <img src="img/service-1.jpg" alt="" class="w-gallery-image">
-                                                                            <div class="overlay">
-
-                                                                            </div>
-                                                                            <div style="background-color: #0c0c0dc9;"><center><h2 class="color">Taxi</label></h2></div>
-                                                                        </a>
-                                                                    </div>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4">
-                                                        <div class="gal-home">
-                                                            <div class="w-gallery aus afr">
-                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                                                                    <div class="hovereffect-color">
-                                                                        <a class="" href="img/service-2.jpg" data-fancybox="images">
-                                                                            <img src="img/service-1.jpg" alt="" class="w-gallery-image">
-                                                                            <div class="overlay">
-
-                                                                            </div>
-                                                                            <div style="background-color: #0c0c0dc9;"><center><h2 class="color">Taxi</label></h2></div>
-                                                                        </a>
-                                                                    </div>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4">
-                                                        <div class="gal-home">
-                                                            <div class="w-gallery aus afr">
-                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                                                                    <div class="hovereffect-color">
-                                                                        <a class="" href="img/service-2.jpg" data-fancybox="images">
-                                                                            <img src="img/service-1.jpg" alt="" class="w-gallery-image">
-                                                                            <div class="overlay">
-
-                                                                            </div>
-                                                                            <div style="background-color: #0c0c0dc9;"><center><h2 class="color">Taxi</label></h2></div>
-                                                                        </a>
-                                                                    </div>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4">
-                                                        <div class="gal-home">
-                                                            <div class="w-gallery aus afr">
-                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                                                                    <div class="hovereffect-color">
-                                                                        <a class="" href="img/service-2.jpg" data-fancybox="images">
-                                                                            <img src="img/service-1.jpg" alt="" class="w-gallery-image">
-                                                                            <div class="overlay">
-
-                                                                            </div>
-                                                                            <div style="background-color: #0c0c0dc9;"><center><h2 class="color">Taxi</label></h2></div>
-                                                                        </a>
-                                                                    </div>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4">
-                                                        <div class="gal-home">
-                                                            <div class="w-gallery aus afr">
-                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                                                                    <div class="hovereffect-color">
-                                                                        <a class="" href="img/service-2.jpg" data-fancybox="images">
-                                                                            <img src="img/service-1.jpg" alt="" class="w-gallery-image">
+                                                                        <a class="" href="img/taxi-1.jpg" data-fancybox="images">
+                                                                            <img src="img/taxi-1.jpg" alt="" class="w-gallery-image">
                                                                             <div class="overlay">
                                                                                 <div class="v-align wrap"></div>
                                                                             </div>
-                                                                            <div style="background-color: #0c0c0dc9;"><center><h2 class="color">Taxi</label></h2></div>
+                                                                            <div style="background-color: #0c0c0dc9;">
+                                                                                <center><h2 class="color">KDH</h2></center>
+                                                                            </div>
+                                                                        </a>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4">
+                                                        <div class="gal-home">
+                                                            <div class="w-gallery aus afr">
+                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
+                                                                    <div class="hovereffect-color">
+                                                                        <a class="" href="img/taxi-2.jpg" data-fancybox="images">
+                                                                            <img src="img/taxi-2.jpg" alt="" class="w-gallery-image">
+                                                                            <div class="overlay">
+                                                                                <div class="v-align wrap"></div>
+                                                                            </div>
+                                                                            <div style="background-color: #0c0c0dc9;">
+                                                                                <center><h2 class="color">Land Crusher</h2></center>
+                                                                            </div>
+                                                                        </a>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4">
+                                                        <div class="gal-home">
+                                                            <div class="w-gallery aus afr">
+                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
+                                                                    <div class="hovereffect-color">
+                                                                        <a class="" href="img/taxi-3.jpg" data-fancybox="images">
+                                                                            <img src="img/taxi-3.jpg" alt="" class="w-gallery-image">
+                                                                            <div class="overlay">
+                                                                                <div class="v-align wrap"></div>
+                                                                            </div>
+                                                                            <div style="background-color: #0c0c0dc9;">
+                                                                                <center><h2 class="color">KDH</h2></center>
+                                                                            </div>
+                                                                        </a>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4">
+                                                        <div class="gal-home">
+                                                            <div class="w-gallery aus afr">
+                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
+                                                                    <div class="hovereffect-color">
+                                                                        <a class="" href="img/taxi-4.jpg" data-fancybox="images">
+                                                                            <img src="img/taxi-4.jpg" alt="" class="w-gallery-image">
+                                                                            <div class="overlay">
+                                                                                <div class="v-align wrap"></div>
+                                                                            </div>
+                                                                            <div style="background-color: #0c0c0dc9;">
+                                                                                <center><h2 class="color">SUV</h2></center>
+                                                                            </div>
+                                                                        </a>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4">
+                                                        <div class="gal-home">
+                                                            <div class="w-gallery aus afr">
+                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
+                                                                    <div class="hovereffect-color">
+                                                                        <a class="" href="img/taxi-5.jpg" data-fancybox="images">
+                                                                            <img src="img/taxi-5.jpg" alt="" class="w-gallery-image">
+                                                                            <div class="overlay">
+                                                                                <div class="v-align wrap"></div>
+                                                                            </div>
+                                                                            <div style="background-color: #0c0c0dc9;">
+                                                                                <center><h2 class="color">Prius</h2></center>
+                                                                            </div>
+                                                                        </a>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4">
+                                                        <div class="gal-home">
+                                                            <div class="w-gallery aus afr">
+                                                                <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
+                                                                    <div class="hovereffect-color">
+                                                                        <a class="" href="img/taxi-6.jpg" data-fancybox="images">
+                                                                            <img src="img/taxi-6.jpg" alt="" class="w-gallery-image">
+                                                                            <div class="overlay">
+                                                                                <div class="v-align wrap"></div>
+                                                                            </div>
+                                                                            <div style="background-color: #0c0c0dc9;">
+                                                                                <center><h2 class="color">Hybrid</h2></center>
+                                                                            </div>
                                                                         </a>
                                                                     </div>
 
@@ -202,7 +214,7 @@
 
                                         </div>
                                     </div>
-                                    <!-- project end -->
+                                    <!-- Taxi gellary end -->
 
                                 </div>
                             </div>
