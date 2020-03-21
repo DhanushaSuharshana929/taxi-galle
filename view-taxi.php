@@ -93,7 +93,7 @@
                                                             <div class="w-gallery aus afr">
                                                                 <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                                                                     <div class="hovereffect-color">
-                                                                        <a class="" href="img/taxi-1.jpg" data-fancybox="images">
+                                                                        <a class="" href="img/taxi-large-1.jpg" data-fancybox="images">
                                                                             <img src="img/taxi-1.jpg" alt="" class="w-gallery-image">
                                                                             <div class="overlay">
                                                                                 <div class="v-align wrap"></div>
@@ -113,7 +113,7 @@
                                                             <div class="w-gallery aus afr">
                                                                 <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                                                                     <div class="hovereffect-color">
-                                                                        <a class="" href="img/taxi-2.jpg" data-fancybox="images">
+                                                                        <a class="" href="img/taxi-large-2.jpg" data-fancybox="images">
                                                                             <img src="img/taxi-2.jpg" alt="" class="w-gallery-image">
                                                                             <div class="overlay">
                                                                                 <div class="v-align wrap"></div>
@@ -133,7 +133,7 @@
                                                             <div class="w-gallery aus afr">
                                                                 <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                                                                     <div class="hovereffect-color">
-                                                                        <a class="" href="img/taxi-3.jpg" data-fancybox="images">
+                                                                        <a class="" href="img/taxi-large-3.jpg" data-fancybox="images">
                                                                             <img src="img/taxi-3.jpg" alt="" class="w-gallery-image">
                                                                             <div class="overlay">
                                                                                 <div class="v-align wrap"></div>
@@ -153,7 +153,7 @@
                                                             <div class="w-gallery aus afr">
                                                                 <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                                                                     <div class="hovereffect-color">
-                                                                        <a class="" href="img/taxi-4.jpg" data-fancybox="images">
+                                                                        <a class="" href="img/taxi-large-4.jpg" data-fancybox="images">
                                                                             <img src="img/taxi-4.jpg" alt="" class="w-gallery-image">
                                                                             <div class="overlay">
                                                                                 <div class="v-align wrap"></div>
@@ -173,7 +173,7 @@
                                                             <div class="w-gallery aus afr">
                                                                 <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                                                                     <div class="hovereffect-color">
-                                                                        <a class="" href="img/taxi-5.jpg" data-fancybox="images">
+                                                                        <a class="" href="img/taxi-large-5.jpg" data-fancybox="images">
                                                                             <img src="img/taxi-5.jpg" alt="" class="w-gallery-image">
                                                                             <div class="overlay">
                                                                                 <div class="v-align wrap"></div>
@@ -193,7 +193,7 @@
                                                             <div class="w-gallery aus afr">
                                                                 <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                                                                     <div class="hovereffect-color">
-                                                                        <a class="" href="img/taxi-6.jpg" data-fancybox="images">
+                                                                        <a class="" href="img/taxi-large-6.jpg" data-fancybox="images">
                                                                             <img src="img/taxi-6.jpg" alt="" class="w-gallery-image">
                                                                             <div class="overlay">
                                                                                 <div class="v-align wrap"></div>
