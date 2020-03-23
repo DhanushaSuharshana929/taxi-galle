@@ -161,7 +161,7 @@ $sliders = Slider::all();
                                         <p class="intro">              
                                             <i>“Holiday is a dream and we know it”</i>
 
-                                            We, the team BONVOYAGELANKA travel crew is privileged to show you and to
+                                            We, the team Taxi Galle is travel crew is privileged to show you and to
                                             take you around the most beautiful island in the world.
                                             It obvious that Sri Lanka is well known for its amazing diversity of cultures, the
                                             natural beauty of the landscape and a glorious history dating back over 2500
